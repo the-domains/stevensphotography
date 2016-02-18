@@ -4,7 +4,7 @@
         <description><![CDATA[Steven Pederson Photography]]></description>
         <link>http://www.stevenpederson.photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 18:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 18:24:36 GMT</lastBuildDate>
         <atom:link href="http://www.stevenpederson.photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.stevenpederson.photography/008bf3f7-9d2f-4469-8980-c401adf7a489/index.html</link>
             <guid isPermaLink="false">008bf3f7-9d2f-4469-8980-c401adf7a489</guid>
             <pubDate>Thu, 18 Feb 2016 18:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27655f4b-fa77-45ca-8c91-b0e476e1084d.jpg">]]></description>
-            <link>http://www.stevenpederson.photography/4fc16cc0-2dec-4bdc-9f7f-c3a7a6624ae7/index.html</link>
-            <guid isPermaLink="false">4fc16cc0-2dec-4bdc-9f7f-c3a7a6624ae7</guid>
-            <pubDate>Wed, 17 Feb 2016 20:58:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
