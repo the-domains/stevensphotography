@@ -1,4 +1,4 @@
-name: Stevensphotography
+name: Steven Pederson
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.62521
@@ -22,7 +22,7 @@ color:
     - '#e9c2b1'
     - '#94867d'
     - '#4f4138'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
