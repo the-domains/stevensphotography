@@ -1,6 +1,6 @@
 name: Steven Pederson Photography
 favicon: null
-layout_spectrum: 0.25626
+layout_spectrum: 0.24624
 typography_spectrum: 0.60684
 title: Steven Pederson Photography
 cta:
@@ -22,8 +22,8 @@ color:
     - '#e9c2b1'
     - '#94867d'
     - '#4f4138'
-  brandStrength: 0
-  lightness: 1
+  brandStrength: 0.5
+  lightness: 0.25
   saturation: 0.5
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
